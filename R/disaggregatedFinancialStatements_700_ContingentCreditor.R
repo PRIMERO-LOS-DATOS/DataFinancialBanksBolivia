@@ -1,4 +1,4 @@
-#' Disaggregated Financial Statements Access
+#' Disaggregated Financial Statements Contingent Creditor 700
 #'
 #' Look up airline names from their carrier codes.
 #'
@@ -9,5 +9,5 @@
 #' \item{CD_100_XX}{Sub Access}
 #' }
 #' @examples
-#'   disaggregatedFinancialStatementsAccess
-"disaggregatedFinancialStatementsAccess"
+#'   disaggregatedFinancialStatements_700_ContingentCreditor
+"disaggregatedFinancialStatements_700_ContingentCreditor"
