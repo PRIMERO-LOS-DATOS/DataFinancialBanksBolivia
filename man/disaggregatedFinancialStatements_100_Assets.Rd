@@ -18,7 +18,9 @@ Data frame with columns
 disaggregatedFinancialStatements_100_Assets
 }
 \description{
-Look up airline names from their carrier codes.
+The table records the asset accounts of the
+disaggregated financial statements of the
+institutions of the Bolivian financial system.
 }
 \examples{
   disaggregatedFinancialStatements_100_Assets

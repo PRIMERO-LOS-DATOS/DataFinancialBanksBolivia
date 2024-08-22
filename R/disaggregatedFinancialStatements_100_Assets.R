@@ -1,6 +1,8 @@
 #' Disaggregated Financial Statements Assets 100
 #'
-#' Look up airline names from their carrier codes.
+#' The table records the asset accounts of the
+#' disaggregated financial statements of the
+#' institutions of the Bolivian financial system.
 #'
 #' @source <https://www.asfi.gob.bo/>
 #' @format Data frame with columns
