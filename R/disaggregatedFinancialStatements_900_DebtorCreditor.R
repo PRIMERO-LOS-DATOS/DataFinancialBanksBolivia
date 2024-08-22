@@ -5,8 +5,8 @@
 #' @source <https://www.asfi.gob.bo/>
 #' @format Data frame with columns
 #' \describe{
-#' \item{CD_100_00}{Acess}
-#' \item{CD_100_XX}{Sub Access}
+#' \item{CD_900_00}{Debtor Creditor}
+#' \item{CD_900_XX}{Sub Debtor Creditor}
 #' }
 #' @examples
 #'   disaggregatedFinancialStatements_900_DebtorCreditor

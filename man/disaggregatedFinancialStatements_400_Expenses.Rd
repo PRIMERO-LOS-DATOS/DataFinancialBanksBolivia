@@ -7,8 +7,8 @@
 \format{
 Data frame with columns
 \describe{
-\item{CD_100_00}{Acess}
-\item{CD_100_XX}{Sub Access}
+\item{CD_400_00}{Expenses}
+\item{CD_400_XX}{Sub Expenses}
 }
 }
 \source{

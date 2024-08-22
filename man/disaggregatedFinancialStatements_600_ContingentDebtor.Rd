@@ -8,8 +8,8 @@
 \format{
 Data frame with columns
 \describe{
-\item{CD_100_00}{Acess}
-\item{CD_100_XX}{Sub Access}
+\item{CD_600_00}{Contingent Debtor}
+\item{CD_600_XX}{Sub Contingent Debtor}
 }
 }
 \source{

@@ -5,8 +5,8 @@
 #' @source <https://www.asfi.gob.bo/>
 #' @format Data frame with columns
 #' \describe{
-#' \item{CD_100_00}{Acess}
-#' \item{CD_100_XX}{Sub Access}
+#' \item{CD_800_00}{Debtor Order}
+#' \item{CD_800_XX}{Sub Debtor Order}
 #' }
 #' @examples
 #'   disaggregatedFinancialStatements_800_DebtorOrder
