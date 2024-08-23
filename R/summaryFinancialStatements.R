@@ -1,12 +1,13 @@
-#' summaryFinancialStatements
+#' Summary Financial Statements
 #'
-#' The table records the asset accounts
+#' The table of financial statements corresponding
+#' to the summarized financial statements of the
+#' different financial institutions in Bolivia.
 #'
 #' @source <https://www.asfi.gob.bo/>
 #' @format Data frame with columns
 #' \describe{
-#' \item{CD_100_00}{Acess}
-#' \item{CD_100_XX}{Sub Access}
+#' \item{XXXXX}{Account}
 #' }
 #' @examples
 #'   summaryFinancialStatements

@@ -3,12 +3,11 @@
 \docType{data}
 \name{summaryFinancialStatements}
 \alias{summaryFinancialStatements}
-\title{summaryFinancialStatements}
+\title{Summary Financial Statements}
 \format{
 Data frame with columns
 \describe{
-\item{CD_100_00}{Acess}
-\item{CD_100_XX}{Sub Access}
+\item{XXXXX}{Account}
 }
 }
 \source{
@@ -18,7 +17,9 @@ Data frame with columns
 summaryFinancialStatements
 }
 \description{
-The table records the asset accounts
+The table of financial statements corresponding
+to the summarized financial statements of the
+different financial institutions in Bolivia.
 }
 \examples{
   summaryFinancialStatements
