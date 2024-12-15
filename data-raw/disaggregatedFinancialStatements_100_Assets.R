@@ -10,4 +10,4 @@ disaggregatedFinancialStatements_100_Assets <-
 save(disaggregatedFinancialStatements_100_Assets,
      file = 'data/disaggregatedFinancialStatements_100_Assets.rda')
 
-usethis::use_data(disaggregatedFinancialStatements_100_Assets, overwrite = TRUE)
+usethis::use_data(disaggregatedFinancialStatements_100_Assets, internal = TRUE, overwrite = TRUE)
